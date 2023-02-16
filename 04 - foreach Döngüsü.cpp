@@ -29,6 +29,7 @@ for(int item:a){
 
 /*
 item isminde bir değişken tanımladık. Bu değişken "a" dizinin her bir elemanını temsi eder.
+":" ifadesi ile "a" dizini çağırdırığımıza dikklat ediniz.
 daha sonras cout komutu ile item değişkeninin ekrana yazdırdık.
 
 Ekran Çıktısı
