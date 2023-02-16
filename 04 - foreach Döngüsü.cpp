@@ -24,7 +24,7 @@ Yukarıdaki örneği foreach ile tekrar yapalım
 
 int a[] = {10,20,30,40,50}
 for(int item:a){
-	cout << item <<endl;
+	cout << item << endl;
 }
 
 /*
