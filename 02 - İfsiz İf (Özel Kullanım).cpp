@@ -1,6 +1,8 @@
 /*	ÖZEL KULLANIM (if'siz if)
 
-	? Operatörü - Koşul Operatörü
+	? Operatörü - Koşul Operatörü - Ternary Operatörü
+	
+	
 
 Bu operatör ile çok fazla karşılaşmayız ancak, oldukça kullanışlı bir operatördür.
 
